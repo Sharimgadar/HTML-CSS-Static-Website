@@ -1,1 +1,1 @@
-# HTML-Static-Website
+# HTML-CSS-Static-Website
